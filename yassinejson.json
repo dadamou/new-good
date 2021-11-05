@@ -34,8 +34,8 @@
       "facebook native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
       "facebook rewarded": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
 	  
-      "start Activity Inter": "admob",
-      "start Activity Native": "admob",
+      "start Activity Inter": "facebook",
+      "start Activity Native": "facebook",
       "start Activity Banner": ".",
 	  
       "data Activity Inter": "admob",
@@ -43,13 +43,13 @@
       "data Activity Banner": "admob",
       "data Activity Rewarded": "admob",
 	  
-      "guide Activity Banner": "admob",
+      "guide Activity Banner": "facebook",
       "guide Activity Native": "admob",
 	  
       "clicks to show ad in list": "2",
       "ad position in list": "2",
 	  
-      "show faces rate dialog": "true",
+      "show faces rate dialog": "false",
       "show faces rate": "true",
 	  
       "clicks to stop showing banner ad": "2",
@@ -60,11 +60,11 @@
       "time unit native": "second",
       "time native": "40",
 	  
-      "show CPA": "true",
+      "show CPA": "false",
       "CPA image": "https://ia601407.us.archive.org/9/items/cpa_20211013/cpa.jpg",
       "CPA URL": "com.outfit7.talkingtomgoldrun",
 	  
-      "is app suspended": "false",
+      "is app suspended": "true",
       "update title": "A new update for this app",
       "update message": "Update this app because this version has some isues",
       "update URL": "com.innersloth.spacemafia"
@@ -80,7 +80,7 @@
 		
         "show button": "true",
         "button text": "click here",
-        "button text size": "17",
+        "button text size": "50",
         "button URL": "com.kiloo.subwaysurf"
       },
       {
@@ -88,7 +88,7 @@
         "title": "About The Game:",
         "guide": "Block 'em All is a small basketball game in which you must block as many shots as possible. It has some crazy physics, a lot of jumping around, and a few hard areas that may annoy you. And, to be honest, we despise it when you're frustrated. It's really aggravating.",
         "guide 2": "somthing here",
-        "VIP": "true",
+        "VIP": "false",
         "ID": "2",
 		
         "show button": "true",
@@ -127,7 +127,7 @@
         "title": "You must repeatedly block bosses:",
         "guide": "Boss ballers are enormous, with red energy bars over their heads. To prevent them from scoring, you must block them numerous times. Stay close to them and begin slamming into them when they're in the air. You can frequently knock them down before they've even delivered the ball.",
         "guide 2": "somthing here",
-        "VIP": "true",
+        "VIP": "false",
         "ID": "5",
 		
         "show button": "true",
@@ -153,7 +153,7 @@
         "title": "What are the gems for?",
         "guide": "You may use the gems to purchase fresh balls. They don't make any mechanical changes to the game. So it's up to you to decide whether it's worthwhile. You'll get enough money by playing that you shouldn't bother viewing the videos to enhance your earnings.",
         "guide 2": "somthing here",
-        "VIP": "true",
+        "VIP": "false",
         "ID": "7",
 		
         "show button": "true",
