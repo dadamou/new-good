@@ -51,7 +51,7 @@
       "guide Activity Native": "admob",
 	  
       "clicks to show ad in list": "2",
-      "ad position in list": "1",
+      "ad position in list": "3",
 	  
       "show faces rate dialog": "false",
       "show faces rate": "false",
@@ -107,6 +107,45 @@
         "guide 2": "somthing here",
         "VIP": "false",
         "ID": "3",
+		
+        "show button": "false",
+        "button text": "click here",
+        "button text size": "17",
+        "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
+      },
+      {
+        "image": "https://ia801404.us.archive.org/22/items/s2_20210807/s3.png",
+        "title": "Make your first move small:",
+        "guide": "You must swipe to begin the level, but if your initial move is too large, you will fail. You will not be in a position to block the initial shot. It is preferable to just tap the screen – That way, you won't move much and will be able to react to the first person in the line.",
+        "guide 2": "somthing here",
+        "VIP": "false",
+        "ID": "4",
+		
+        "show button": "false",
+        "button text": "click here",
+        "button text size": "17",
+        "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
+      },
+      {
+        "image": "https://ia801404.us.archive.org/22/items/s2_20210807/s3.png",
+        "title": "Make your first move small:",
+        "guide": "You must swipe to begin the level, but if your initial move is too large, you will fail. You will not be in a position to block the initial shot. It is preferable to just tap the screen – That way, you won't move much and will be able to react to the first person in the line.",
+        "guide 2": "somthing here",
+        "VIP": "false",
+        "ID": "5",
+		
+        "show button": "false",
+        "button text": "click here",
+        "button text size": "17",
+        "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
+      },
+      {
+        "image": "https://ia801404.us.archive.org/22/items/s2_20210807/s3.png",
+        "title": "Make your first move small:",
+        "guide": "You must swipe to begin the level, but if your initial move is too large, you will fail. You will not be in a position to block the initial shot. It is preferable to just tap the screen – That way, you won't move much and will be able to react to the first person in the line.",
+        "guide 2": "somthing here",
+        "VIP": "false",
+        "ID": "6",
 		
         "show button": "false",
         "button text": "click here",
