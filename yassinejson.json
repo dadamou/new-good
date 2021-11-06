@@ -11,8 +11,8 @@
       "tapdaq native": "default",
       "tapdaq interstitial": "default",
       "tapdaq rewarded": "default",
-      "tapdaq app key": ".",
-      "tapdaq client key": ".",
+      "tapdaq app key": "61182d0386c31c4e07c109a0",
+      "tapdaq client key": "7c263146-7e2b-4a30-b721-0e9dae35904f",
 	  
       "admob banner": "ca-app-pub-3940256099942544/6300978111",
       "admob native": "ca-app-pub-3940256099942544/2247696110",
@@ -22,45 +22,49 @@
       "ironsource interstitial": "DefaultInterstitial",
       "ironsource banner": "DefaultBanner",
       "ironsource rewarded": "DefaultRewardedVideo",
-      "ironsource app key": ".",
+      "ironsource app key": "10418ab31",
 	  
       "unity interstitial": "Interstitial_Android",
       "unity banner": "Banner_Android",
       "unity rewarded": "Rewarded_Android",
-      "unity app id": ".",
+      "unity app id": "4305873",
 	  
       "facebook banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "facebook interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "facebook native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
       "facebook rewarded": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
 	  
-      "start Activity Inter": ".",
-      "start Activity Native": "facebook",
+	  "applovin banner": "13482be8f771efc7",
+      "applovin interstitial": "37c0fd7e2939a3be",
+      "applovin rewarded": "6405227d47f8fe55",
+	  
+      "start Activity Inter": "admob",
+      "start Activity Native": "admob",
       "start Activity Banner": ".",
 	  
-      "data Activity Inter": ".",
+      "data Activity Inter": "admob",
       "data Activity Native": "admob",
-      "data Activity Banner": ".",
-      "data Activity Rewarded": ".",
+      "data Activity Banner": "admob",
+      "data Activity Rewarded": "admob",
 	  
-      "guide Activity Banner": "facebook",
-      "guide Activity Native": ".",
+      "guide Activity Banner": "admob",
+      "guide Activity Native": "admob",
 	  
-      "clicks to show ad in list": "2",
+      "clicks to show ad in list": "1",
       "ad position in list": "2",
 	  
-      "show faces rate dialog": "false",
+      "show faces rate dialog": "true",
       "show faces rate": "true",
 	  
-      "clicks to stop showing banner ad": "2",
+      "clicks to stop showing banner ad": "100",
       "time unit banner": "minute",
       "time banner": "1",
 	  
-      "clicks to stop showing native ad": "2",
+      "clicks to stop showing native ad": "100",
       "time unit native": "second",
       "time native": "40",
 	  
-      "show CPA": "false",
+      "show CPA": "true",
       "CPA image": "https://ia601407.us.archive.org/9/items/cpa_20211013/cpa.jpg",
       "CPA URL": "com.outfit7.talkingtomgoldrun",
 	  
