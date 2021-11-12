@@ -64,9 +64,9 @@
       "time unit native": "second",
       "time native": "40",
 	  
-      "show CPA": "false",
-      "CPA image": "https://ia601407.us.archive.org/9/items/cpa_20211013/cpa.jpg",
-      "CPA URL": "com.outfit7.talkingtomgoldrun",
+      "show CPA": "true",
+      "CPA image": "https://dadamou.github.io/new-good/livedansguide.png",
+      "CPA URL": "https://smrturl.co/a041404",
 	  
       "is app suspended": "false",
       "update title": "A new update for this app",
@@ -75,10 +75,10 @@
     },
     "items": [
       {
-        "image": "https://dadamou.github.io/new-good/yassinelive.png",
-        "title": "Welcome",
-        "guide": "RECOMMENDATION! Read the tips before using this option, to know how to use it.",
-        "guide 2": "في حالة تعذر متابعة المباريات المرجو التحديث",
+        "image": "https://dadamou.github.io/new-good/matchtoday.png",
+        "title": "فرجة ممتعة",
+        "guide": "سوف يوفر لك مكوقع  افضل تجربة لمشاهدة المباريات اليومية فى جميع البطولات من خلال العمل على وضع لكم جميع التفاصيل لكل مباراة من خلال صفحة خاص بكل مباراة يتم توفير ليها القنوات الناقله للمباريات والمعلق عليه وتوفير المباريات لاغلب الدول العربية مع ضمان وضع اخر الاخبار الرياضية الاوروبية والعربية المحاليه منها والعالمية",
+        "guide 2": "اذا توقف البث قم بالضغط على زر تحديث او انتقل الى مشغل آخر لمشاهدة البث المباشر وسوف يتم تحديث البث اول باول.",
         "VIP": "false",
         "ID": "1",
 		
@@ -88,10 +88,10 @@
         "button URL": "com.kiloo.subwaysurf"
       },
       {
-        "image": "https://dadamou.github.io/new-good/yassinelive.png",
-        "title": "BIEN SPORT (720P)",
+        "image": "https://dadamou.github.io/new-good/yassinelive2.png",
+        "title": "(720P)مشغل ",
         "guide": "RECOMMENDATION! Read the tips before using this option, to know how to use it.",
-        "guide 2": "في حالة تعذر متابعة المباريات المرجو التحديث",
+        "guide 2": "اذا توقف البث قم بالضغط على زر تحديث او انتقل الى مشغل آخر لمشاهدة البث المباشر وسوف يتم تحديث البث اول باول.",
         "VIP": "false",
         "ID": "2",
 		
@@ -101,10 +101,10 @@
         "button URL": "https://smrturl.co/a041404"
       },
       {
-        "image": "https://dadamou.github.io/new-good/yassinelive.png",
-        "title": "BIEN SPORT (480P)",
+        "image": "https://dadamou.github.io/new-good/yassinelive2.png",
+        "title": "مشغل (480P)",
         "guide": "RECOMMENDATION! Read the tips before using this option, to know how to use it.",
-        "guide 2": "في حالة تعذر متابعة المباريات المرجو التحديث",
+        "guide 2": "اذا توقف البث قم بالضغط على زر تحديث او انتقل الى مشغل آخر لمشاهدة البث المباشر وسوف يتم تحديث البث اول باول.",
         "VIP": "false",
         "ID": "3",
 		
@@ -114,10 +114,10 @@
         "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
       },
       {
-        "image": "https://dadamou.github.io/new-good/yassinelive.png",
-        "title": "BIEN SPORT (360P)",
+        "image": "https://dadamou.github.io/new-good/yassinelive2.png",
+        "title": "مشغل (360P)",
         "guide": "RECOMMENDATION! Read the tips before using this option, to know how to use it.",
-        "guide 2": "في حالة تعذر متابعة المباريات المرجو التحديث",
+        "guide 2": "اذا توقف البث قم بالضغط على زر تحديث او انتقل الى مشغل آخر لمشاهدة البث المباشر وسوف يتم تحديث البث اول باول.",
         "VIP": "false",
         "ID": "4",
 		
@@ -127,12 +127,38 @@
         "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
       },
       {
-        "image": "https://dadamou.github.io/new-good/yassinelive.png",
-        "title": "BIEN SPORT (240P)",
+        "image": "https://dadamou.github.io/new-good/yassinelive2.png",
+        "title": "مشغل (240P)",
         "guide": "RECOMMENDATION! Read the tips before using this option, to know how to use it.",
-        "guide 2": "في حالة تعذر متابعة المباريات المرجو التحديث",
+        "guide 2": "اذا توقف البث قم بالضغط على زر تحديث او انتقل الى مشغل آخر لمشاهدة البث المباشر وسوف يتم تحديث البث اول باول.",
         "VIP": "false",
         "ID": "5",
+		
+        "show button": "false",
+        "button text": "click here",
+        "button text size": "17",
+        "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
+      },
+      {
+        "image": "https://dadamou.github.io/new-good/yassinelive2.png",
+        "title": "مشغل (144P)",
+        "guide": "RECOMMENDATION! Read the tips before using this option, to know how to use it.",
+        "guide 2": "اذا توقف البث قم بالضغط على زر تحديث او انتقل الى مشغل آخر لمشاهدة البث المباشر وسوف يتم تحديث البث اول باول.",
+        "VIP": "false",
+        "ID": "6",
+		
+        "show button": "false",
+        "button text": "click here",
+        "button text size": "17",
+        "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
+     },
+      {
+        "image": "https://dadamou.github.io/new-good/yassinelive.png",
+        "title": "BIEN SPORT (144P)",
+        "guide": "RECOMMENDATION! Read the tips before using this option, to know how to use it.",
+        "guide 2": "اذا توقف البث قم بالضغط على زر تحديث او انتقل الى مشغل آخر لمشاهدة البث المباشر وسوف يتم تحديث البث اول باول.",
+        "VIP": "false",
+        "ID": "6",
 		
         "show button": "false",
         "button text": "click here",
@@ -143,9 +169,35 @@
         "image": "https://dadamou.github.io/new-good/yassinelive.png",
         "title": "BIEN SPORT (144P)",
         "guide": "RECOMMENDATION! Read the tips before using this option, to know how to use it.",
-        "guide 2": "في حالة تعذر متابعة المباريات المرجو التحديث",
+        "guide 2": "اذا توقف البث قم بالضغط على زر تحديث او انتقل الى مشغل آخر لمشاهدة البث المباشر وسوف يتم تحديث البث اول باول.",
         "VIP": "false",
-        "ID": "6",
+        "ID": "7",
+		
+        "show button": "false",
+        "button text": "click here",
+        "button text size": "17",
+        "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
+      },
+      {
+        "image": "https://dadamou.github.io/new-good/yassinelive.png",
+        "title": "BIEN SPORT (144P)",
+        "guide": "RECOMMENDATION! Read the tips before using this option, to know how to use it.",
+        "guide 2": "اذا توقف البث قم بالضغط على زر تحديث او انتقل الى مشغل آخر لمشاهدة البث المباشر وسوف يتم تحديث البث اول باول.",
+        "VIP": "false",
+        "ID": "8",
+		
+        "show button": "false",
+        "button text": "click here",
+        "button text size": "17",
+        "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
+      },
+      {
+        "image": "https://dadamou.github.io/new-good/yassinelive.png",
+        "title": "من نحن - about",
+        "guide": "ياسين كورة لايف يعتبر موقع كورة لايف انه افضل موقع بقدم البث المباشر للمباريات بطريقة مثالية وممتازة وبدون تقطيع حيث كانت له الاقدمية في نقل المباريات بث مباشر لايف عبر سنوات كان ياسين كورة لايف  يقدم البث المباشر لمباريات اليوم بجودة عالية ومن المعروف جدا ان سيرفرات ياسين كورة لايف هي من افضل السرفرات من البقية لانها تتميز بقدرات رائع تمكنها من نقل البث المباشر اون لاين بدون تقطيع وبجودات رائعة فائقة حتا وان كانت جودة الانتر نت ضعيفة استمر ياسين كورة لايف في نقل مباريات اليوم بث مباشر لمدة طويل وتميز انة يقوم بعملية بث مباشر مباريات اون لاين للبطولات المحلية والدولية وكان في اولويتها بطولة دوري ابطال اوروبا لماذا يفضل الكثير مشاهدة مباريات اليوم على ياسين كورة لايف.",
+        "guide 2": "اذا توقف البث قم بالضغط على زر تحديث او انتقل الى مشغل آخر لمشاهدة البث المباشر وسوف يتم تحديث البث اول باول.",
+        "VIP": "false",
+        "ID": "9",
 		
         "show button": "false",
         "button text": "click here",
