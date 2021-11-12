@@ -75,10 +75,10 @@
     },
     "items": [
       {
-        "image": "https://dadamou.github.io/new-good/1.png",
+        "image": "https://dadamou.github.io/new-good/yassinelive.png",
         "title": "Welcome",
         "guide": "RECOMMENDATION! Read the tips before using this option, to know how to use it.",
-        "guide 2": "somthing here",
+        "guide 2": "في حالة تعذر متابعة المباريات المرجو التحديث",
         "VIP": "false",
         "ID": "1",
 		
@@ -88,23 +88,23 @@
         "button URL": "com.kiloo.subwaysurf"
       },
       {
-        "image": "https://dadamou.github.io/new-good/2.png",
-        "title": ".",
+        "image": "https://dadamou.github.io/new-good/yassinelive.png",
+        "title": "BIEN SPORT (720P)",
         "guide": "RECOMMENDATION! Read the tips before using this option, to know how to use it.",
-        "guide 2": "somthing here",
+        "guide 2": "في حالة تعذر متابعة المباريات المرجو التحديث",
         "VIP": "false",
         "ID": "2",
 		
-        "show button": "false",
-        "button text": "click here",
+        "show button": "true",
+        "button text": "تحديث",
         "button text size": "17",
-        "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
+        "button URL": "https://smrturl.co/a041404"
       },
       {
-        "image": "https://dadamou.github.io/new-good/3.png",
-        "title": ".",
+        "image": "https://dadamou.github.io/new-good/yassinelive.png",
+        "title": "BIEN SPORT (480P)",
         "guide": "RECOMMENDATION! Read the tips before using this option, to know how to use it.",
-        "guide 2": "somthing here",
+        "guide 2": "في حالة تعذر متابعة المباريات المرجو التحديث",
         "VIP": "false",
         "ID": "3",
 		
@@ -114,10 +114,10 @@
         "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
       },
       {
-        "image": "https://dadamou.github.io/new-good/4.png",
-        "title": ".",
+        "image": "https://dadamou.github.io/new-good/yassinelive.png",
+        "title": "BIEN SPORT (360P)",
         "guide": "RECOMMENDATION! Read the tips before using this option, to know how to use it.",
-        "guide 2": "somthing here",
+        "guide 2": "في حالة تعذر متابعة المباريات المرجو التحديث",
         "VIP": "false",
         "ID": "4",
 		
@@ -127,10 +127,10 @@
         "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
       },
       {
-        "image": "https://dadamou.github.io/new-good/5.png",
-        "title": ".",
+        "image": "https://dadamou.github.io/new-good/yassinelive.png",
+        "title": "BIEN SPORT (240P)",
         "guide": "RECOMMENDATION! Read the tips before using this option, to know how to use it.",
-        "guide 2": "somthing here",
+        "guide 2": "في حالة تعذر متابعة المباريات المرجو التحديث",
         "VIP": "false",
         "ID": "5",
 		
@@ -140,10 +140,10 @@
         "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
       },
       {
-        "image": "https://dadamou.github.io/new-good/5.png",
-        "title": ".",
+        "image": "https://dadamou.github.io/new-good/yassinelive.png",
+        "title": "BIEN SPORT (144P)",
         "guide": "RECOMMENDATION! Read the tips before using this option, to know how to use it.",
-        "guide 2": "somthing here",
+        "guide 2": "في حالة تعذر متابعة المباريات المرجو التحديث",
         "VIP": "false",
         "ID": "6",
 		
