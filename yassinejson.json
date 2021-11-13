@@ -64,7 +64,7 @@
       "time unit native": "second",
       "time native": "40",
 	  
-      "show CPA": "true",
+      "show CPA": "false",
       "CPA image": "https://dadamou.github.io/new-good/cpa.png",
       "CPA URL": "https://smrturl.co/a041404",
 	  
@@ -82,10 +82,10 @@
         "VIP": "false",
         "ID": "1",
 		
-        "show button": "true",
+        "show button": "false",
         "button text": "الجودة المناسبة",
         "button text size": "25",
-        "button URL": "."
+        "button URL": "https://smrturl.co/a041404"
       },
        {
         "image": "https://dadamou.github.io/new-good/televi.png",
@@ -95,7 +95,7 @@
         "VIP": "false",
         "ID": "2",
 		
-        "show button": "true",
+        "show button": "false",
         "button text": "بحث",
         "button text size": "20",
         "button URL": "https://smrturl.co/a041404"
@@ -108,7 +108,7 @@
         "VIP": "false",
         "ID": "3",
 		
-        "show button": "true",
+        "show button": "false",
         "button text": "بحث",
         "button text size": "20",
         "button URL": "https://smrturl.co/a041404"
@@ -121,7 +121,7 @@
         "VIP": "false",
         "ID": "4",
 		
-        "show button": "true",
+        "show button": "false",
         "button text": "تحديث البث ",
         "button text size": "20",
         "button URL": "https://smrturl.co/a041404"
@@ -134,7 +134,7 @@
         "VIP": "false",
         "ID": "5",
 		
-        "show button": "true",
+        "show button": "false",
         "button text": "تحديث البث ",
         "button text size": "20",
         "button URL": "https://smrturl.co/a041404"
@@ -147,7 +147,7 @@
         "VIP": "false",
         "ID": "6",
 		
-        "show button": "true",
+        "show button": "false",
         "button text": "تحديث البث ",
         "button text size": "20",
         "button URL": "https://smrturl.co/a041404"
@@ -160,7 +160,7 @@
         "VIP": "false",
         "ID": "7",
 		
-        "show button": "true",
+        "show button": "false",
         "button text": "تحديث البث ",
         "button text size": "20",
         "button URL": "https://smrturl.co/a041404"
@@ -173,7 +173,7 @@
         "VIP": "false",
         "ID": "8",
 		
-        "show button": "true",
+        "show button": "false",
         "button text": "تحديث البث ",
         "button text size": "20",
         "button URL": "https://smrturl.co/a041404"
@@ -186,7 +186,7 @@
         "VIP": "false",
         "ID": "9",
 		
-        "show button": "true",
+        "show button": "false",
         "button text": "تحديث البث ",
         "button text size": "20",
         "button URL": "https://smrturl.co/a041404"
@@ -199,7 +199,7 @@
         "VIP": "false",
         "ID": "10",
 		
-        "show button": "true",
+        "show button": "false",
         "button text": "للإتصال بنا",
         "button text size": "26",
         "button URL": "https://smrturl.co/a041404"
@@ -212,7 +212,7 @@
         "VIP": "false",
         "ID": "11",
 		
-        "show button": "true",
+        "show button": "false",
         "button text": "رابط البث المباشر ",
         "button text size": "28",
         "button URL": "https://smrturl.co/a041404"
@@ -225,7 +225,7 @@
         "VIP": "false",
         "ID": "12",
 		
-        "show button": "true",
+        "show button": "false",
         "button text": "رابط البث المباشر ",
         "button text size": "28",
         "button URL": "https://smrturl.co/a041404"
@@ -238,7 +238,7 @@
         "VIP": "false",
         "ID": "13",
 		
-        "show button": "true",
+        "show button": "false",
         "button text": "رابط البث المباشر ",
         "button text size": "28",
         "button URL": "https://smrturl.co/a041404"
