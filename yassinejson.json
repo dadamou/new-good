@@ -39,12 +39,12 @@
       "applovin rewarded": "6405227d47f8fe55",
 	  
       "start Activity Inter": ".",
-      "start Activity Native": "admob",
+      "start Activity Native": "tapdaq",
       "start Activity Banner": ".",
 	  
-      "data Activity Inter": ".",
-      "data Activity Native": "admob",
-      "data Activity Banner": ".",
+      "data Activity Inter": "tapdaq",
+      "data Activity Native": "tapdaq",
+      "data Activity Banner": "tapdaq",
       "data Activity Rewarded": ".",
 	  
       "guide Activity Banner": ".",
