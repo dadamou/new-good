@@ -38,16 +38,16 @@
       "applovin interstitial": "37c0fd7e2939a3be",
       "applovin rewarded": "6405227d47f8fe55",
 	  
-      "start Activity Inter": "unity",
+      "start Activity Inter": ".",
       "start Activity Native": ".",
-      "start Activity Banner": "mopub",
+      "start Activity Banner": "unity",
 	  
-      "data Activity Inter": "unity",
+      "data Activity Inter": ".",
       "data Activity Native": ".",
-      "data Activity Banner": "mopub",
+      "data Activity Banner": ".",
       "data Activity Rewarded": "unity",
 	  
-      "guide Activity Banner": "mopub",
+      "guide Activity Banner": "unity",
       "guide Activity Native": ".",
 	  
       "clicks to show ad in list": "2",
@@ -79,7 +79,7 @@
         "title": "فرجة ممتعة",
         "guide": "سوف يوفر لك مكوقع  افضل تجربة لمشاهدة المباريات اليومية فى جميع البطولات من خلال العمل على وضع لكم جميع التفاصيل لكل مباراة من خلال صفحة خاص بكل مباراة يتم توفير ليها القنوات الناقله للمباريات والمعلق عليه وتوفير المباريات لاغلب الدول العربية مع ضمان وضع اخر الاخبار الرياضية الاوروبية والعربية المحاليه منها والعالمية",
         "guide 2": "اختر الجودة المناسبة لك باستعمال المشغل المناسب",
-        "VIP": "true",
+        "VIP": "false",
         "ID": "1",
 		
         "show button": "false",
@@ -95,7 +95,7 @@
         "VIP": "false",
         "ID": "2",
 		
-        "show button": "false",
+        "show button": "true",
         "button text": "بحث",
         "button text size": "20",
         "button URL": "https://smrturl.co/a041404"
@@ -108,7 +108,7 @@
         "VIP": "false",
         "ID": "3",
 		
-        "show button": "false",
+        "show button": "true",
         "button text": "بحث",
         "button text size": "20",
         "button URL": "https://smrturl.co/a041404"
@@ -121,7 +121,7 @@
         "VIP": "false",
         "ID": "4",
 		
-        "show button": "false",
+        "show button": "true",
         "button text": "تحديث البث ",
         "button text size": "20",
         "button URL": "https://smrturl.co/a041404"
@@ -134,7 +134,7 @@
         "VIP": "false",
         "ID": "5",
 		
-        "show button": "false",
+        "show button": "true",
         "button text": "تحديث البث ",
         "button text size": "20",
         "button URL": "https://smrturl.co/a041404"
@@ -147,7 +147,7 @@
         "VIP": "false",
         "ID": "6",
 		
-        "show button": "false",
+        "show button": "true",
         "button text": "تحديث البث ",
         "button text size": "20",
         "button URL": "https://smrturl.co/a041404"
@@ -160,7 +160,7 @@
         "VIP": "false",
         "ID": "7",
 		
-        "show button": "false",
+        "show button": "true",
         "button text": "تحديث البث ",
         "button text size": "20",
         "button URL": "https://smrturl.co/a041404"
@@ -173,7 +173,7 @@
         "VIP": "false",
         "ID": "8",
 		
-        "show button": "false",
+        "show button": "true",
         "button text": "تحديث البث ",
         "button text size": "20",
         "button URL": "https://smrturl.co/a041404"
@@ -186,7 +186,7 @@
         "VIP": "false",
         "ID": "9",
 		
-        "show button": "false",
+        "show button": "true",
         "button text": "تحديث البث ",
         "button text size": "20",
         "button URL": "https://smrturl.co/a041404"
@@ -199,7 +199,7 @@
         "VIP": "false",
         "ID": "10",
 		
-        "show button": "false",
+        "show button": "true",
         "button text": "للإتصال بنا",
         "button text size": "26",
         "button URL": "https://smrturl.co/a041404"
@@ -212,7 +212,7 @@
         "VIP": "false",
         "ID": "11",
 		
-        "show button": "false",
+        "show button": "true",
         "button text": "رابط البث المباشر ",
         "button text size": "28",
         "button URL": "https://smrturl.co/a041404"
@@ -225,7 +225,7 @@
         "VIP": "false",
         "ID": "12",
 		
-        "show button": "false",
+        "show button": "true",
         "button text": "رابط البث المباشر ",
         "button text size": "28",
         "button URL": "https://smrturl.co/a041404"
@@ -238,7 +238,7 @@
         "VIP": "false",
         "ID": "13",
 		
-        "show button": "false",
+        "show button": "true",
         "button text": "رابط البث المباشر ",
         "button text size": "28",
         "button URL": "https://smrturl.co/a041404"
