@@ -34,20 +34,20 @@
       "facebook native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
       "facebook rewarded": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
 	  
-	  "applovin banner": "13482be8f771efc7",
-      "applovin interstitial": "37c0fd7e2939a3be",
-      "applovin rewarded": "6405227d47f8fe55",
+	  "applovin banner": "f84936fd5a0ca083",
+      "applovin interstitial": "0254c9816153a36e",
+      "applovin rewarded": "ca25e13bd26b3c4b",
 	  
-      "start Activity Inter": ".",
+      "start Activity Inter": "applovin",
       "start Activity Native": ".",
-      "start Activity Banner": "unity",
+      "start Activity Banner": "applovin",
 	  
-      "data Activity Inter": ".",
+      "data Activity Inter": "applovin",
       "data Activity Native": ".",
-      "data Activity Banner": ".",
-      "data Activity Rewarded": "unity",
+      "data Activity Banner": "applovin",
+      "data Activity Rewarded": "applovin",
 	  
-      "guide Activity Banner": "unity",
+      "guide Activity Banner": "applovin",
       "guide Activity Native": ".",
 	  
       "clicks to show ad in list": "2",
