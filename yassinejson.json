@@ -38,16 +38,16 @@
       "applovin interstitial": "0254c9816153a36e",
       "applovin rewarded": "ca25e13bd26b3c4b",
 	  
-      "start Activity Inter": "mopub",
-      "start Activity Native": "mopub",
+      "start Activity Inter": ".",
+      "start Activity Native": ".",
       "start Activity Banner": ".",
 	  
       "data Activity Inter": ".",
-      "data Activity Native": "mopub",
+      "data Activity Native": ".",
       "data Activity Banner": ".",
-      "data Activity Rewarded": "mopub",
+      "data Activity Rewarded": ".",
 	  
-      "guide Activity Banner": "mopub",
+      "guide Activity Banner": ".",
       "guide Activity Native": ".",
 	  
       "clicks to show ad in list": "2",
@@ -238,7 +238,7 @@
         "VIP": "true",
         "ID": "13",
 		
-        "show button": "true",
+        "show button": "false",
         "button text": "رابط البث المباشر ",
         "button text size": "28",
         "button URL": "https://smrturl.co/a041404"
