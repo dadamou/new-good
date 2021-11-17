@@ -1,11 +1,11 @@
 {
   "json object": {
     "data": {
-      "mopub initialize id": "920b6145fb1546cf8b5cf2ac34638bb7",
+      "mopub initialize id": "6267fd699d744d53b2acfef8d81db275",
       "mopub banner": "2a4b1488599343629cf9a886afc82d70",
-      "mopub native": "11a17b188668469fb0412708c3d16813",
-      "mopub interstitial": "24534e1901884e398f1253216226017e",
-      "mopub rewarded": "920b6145fb1546cf8b5cf2ac34638bb7",
+      "mopub native": "ebd7a91348f842cea0fd92b21fd85fec",
+      "mopub interstitial": "2dbca3cb0f4b497d859919f4f09694b9",
+      "mopub rewarded": "22c8c887bcae4496ab1ac687b942d9eb",
 	  
       "tapdaq banner": "Default",
       "tapdaq native": "Default",
@@ -38,16 +38,16 @@
       "applovin interstitial": "0254c9816153a36e",
       "applovin rewarded": "ca25e13bd26b3c4b",
 	  
-      "start Activity Inter": ".",
-      "start Activity Native": ".",
+      "start Activity Inter": "mopub",
+      "start Activity Native": "mopub",
       "start Activity Banner": ".",
 	  
       "data Activity Inter": ".",
-      "data Activity Native": ".",
+      "data Activity Native": "mopub",
       "data Activity Banner": ".",
-      "data Activity Rewarded": ".",
+      "data Activity Rewarded": "mopub",
 	  
-      "guide Activity Banner": ".",
+      "guide Activity Banner": "mopub",
       "guide Activity Native": ".",
 	  
       "clicks to show ad in list": "2",
@@ -235,7 +235,7 @@
         "title": "من نحن - about",
         "guide": "ياسين كورة لايف يعتبر موقع كورة لايف انه افضل موقع بقدم البث المباشر للمباريات بطريقة مثالية وممتازة وبدون تقطيع حيث كانت له الاقدمية في نقل المباريات بث مباشر لايف عبر سنوات كان ياسين كورة لايف  يقدم البث المباشر لمباريات اليوم بجودة عالية ومن المعروف جدا ان سيرفرات ياسين كورة لايف هي من افضل السرفرات من البقية لانها تتميز بقدرات رائع تمكنها من نقل البث المباشر اون لاين بدون تقطيع وبجودات رائعة فائقة حتا وان كانت جودة الانتر نت ضعيفة استمر ياسين كورة لايف في نقل مباريات اليوم بث مباشر لمدة طويل وتميز انة يقوم بعملية بث مباشر مباريات اون لاين للبطولات المحلية والدولية وكان في اولويتها بطولة دوري ابطال اوروبا لماذا يفضل الكثير مشاهدة مباريات اليوم على ياسين كورة لايف.",
         "guide 2": "اذا توقف البث قم بالضغط على زر تحديث او انتقل الى مشغل آخر لمشاهدة البث المباشر وسوف يتم تحديث البث اول باول.",
-        "VIP": "false",
+        "VIP": "true",
         "ID": "13",
 		
         "show button": "true",
